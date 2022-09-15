@@ -1,7 +1,7 @@
 type ID = number | string;
 // Собственный тип, type - псевдоним типа
 // Тип пишется с большой буквы
-type Tuple = [number, number];
+// type Tuple = [number, number];
 
 // Union
 type ReqStatus = "success" | "error" | "pending";
